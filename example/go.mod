@@ -1,3 +1,3 @@
-module github.com/MannKataria/go-tests/example
+module example
 
 go 1.24.0
