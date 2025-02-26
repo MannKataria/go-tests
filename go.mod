@@ -1,4 +1,4 @@
-module go-tests
+module github.com/MannKataria/go-tests
 
 go 1.24.0
 
